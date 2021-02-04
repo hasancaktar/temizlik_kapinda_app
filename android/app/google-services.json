@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "60666836947",
+    "project_id": "temizlik-kapinda-e318e",
+    "storage_bucket": "temizlik-kapinda-e318e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60666836947:android:2280cabeb7a0fcc350a126",
+        "android_client_info": {
+          "package_name": "com.example.temizlik_kapinda_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60666836947-voih1iip5qefke471a48saf2v2jkf8fc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.temizlik_kapinda_app",
+            "certificate_hash": "742a53c90991bdb42622ab2119be9aab1c0945a7"
+          }
+        },
+        {
+          "client_id": "60666836947-1h89tf1almvsjqgpnm4t91jlcd38tqm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQpVdfqZPIBwY8dBOmKPAx4rN-kA5_jmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60666836947-1h89tf1almvsjqgpnm4t91jlcd38tqm1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
